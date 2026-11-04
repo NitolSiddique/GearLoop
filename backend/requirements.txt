@@ -1,1 +1,4 @@
 fastapi[standard]>=0.141.1
+sqlmodel
+psycopg[binary]
+python-dotenv
