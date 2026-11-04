@@ -12,3 +12,5 @@ frontend/dist/
 .vercel/
 .vscode/*
 !.vscode/extensions.json
+gearloop.db
+.env
